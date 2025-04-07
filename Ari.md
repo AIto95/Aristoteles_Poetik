@@ -70,9 +70,7 @@ Der Abgabetermin für die schriftlichen Prüfungsleistungen ist der **XXXXX** . 
 
 ![Aristoteles](Ari2.jpg)
 
-## Aristoteles
-
-### **Allgemeine Informationen**
+## **Allgemeine Informationen**
 
 - **Name:** Aristoteles  
 
