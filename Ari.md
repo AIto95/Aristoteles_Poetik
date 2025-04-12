@@ -35,9 +35,8 @@ Der Abgabetermin für die schriftlichen Prüfungsleistungen ist der **XXXXX** . 
 
 ## Semesterplan
 
-| **14.04.2025** | **Eröffnung, Organisatorisches** | **Referat** |
+| **21.04.2025** | **Eröffnung, Organisatorisches** | **Referat** |
 |------------|------------------------------|---------|
-| 21.04.2025 | ---- |---  |
 | 28.04.2025 | ---| -- |
 | 05.05.2025 |  ---| -- |
 | 12.05.2025 | ---| -- |
