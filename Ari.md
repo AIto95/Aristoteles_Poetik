@@ -170,11 +170,21 @@ Diese Werke bilden die Grundlage für zahlreiche Disziplinen wie Philosophie, Na
 
 ### **Ausgewählte Sekundärliteratur**
 
+- Ottfried Höffe: Aristoteles Poetik, Berlin: Akademie Verlag 2009.
+
 - Bernays, Jakob : Zwei Abhandlungen über die Aristotelische Theorie des Dramas. Berlin 1880.
 
 - Hamburger, Käte: Die Logik der Dichtung. München 1987.
 
 - Jung, Werner: Von der Mimesis zur Simulation. Eine Einführung in die Geschichte der Ästhetik. Hamburg 1995.
+
+- Kafka, Gustav: Aristoteles. München 1922.
+
+- Manns, P.: Die Lehre des Aristoteles von der tragischen Katharsis und Hamartia. Karlsruhe und Leipzig 1883.
+
+- Rapp, Christof: Aristoteles zur Einführung. 6. erw. Auflage, Junius 2020.
+
+- Rapp, Christof und  Corcilius, Klaus: Aristoteles Handbuch. Leben - Werk - Wirkung, Springer 2021.
 
 - Titzmann, Michael: Poetik, in: Literatur Lexikon. ( Hg.) Walther Killy. Bd. 14. Gütersloh, München 1993. S. 216-222.
 
@@ -186,10 +196,17 @@ Diese Werke bilden die Grundlage für zahlreiche Disziplinen wie Philosophie, Na
 
 **Aristoteles im Netz** 
 
-- .
+- Universität Heidelberg [Aristoteles Heute](https://www.ub.uni-heidelberg.de/fachinfo/philosophie/aristoteles/)
 
-- .... 
 
-- ... 
+- Freie Universität Berlin: [Aristoteles Zentrum](https://www.geisteswissenschaften.fu-berlin.de/we02/griechisch/graezistik/aristotelismuszentrum/index.html)
 
-- ...
+- Treffpunkt Philosophie: [Aristoteles – Vater der modernen Wissenschaft](https://treffpunkt-philosophie.dearistoteles-vater-der-modernen-wissenschaft/)
+
+**Aristoteles zum Anhören** 
+
+- RadioWissen: [Aristoteles als Wegweiser](https://podcasts.apple.com/de/podcast/radiowissen/id257719552?i=1000464712363)
+
+- Durchblick Philosophie: [Aristoteles Denken macht glücklich](https://podcasts.apple.com/de/podcast/durchblick-philosophie/id1497307279?i=1000508404306)
+
+- 
