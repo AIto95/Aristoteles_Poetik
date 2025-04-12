@@ -65,11 +65,11 @@ Der Abgabetermin für die schriftlichen Prüfungsleistungen ist der **XXXXX** . 
 * Beginn: 25.08.2025
 * Ende: 21.09.2025
 
-## 1. Sitzung am 14.04.2025
+## 1. Sitzung am 21.04.2025
 
 ![Aristoteles](Ari2.jpg)
 
-## **Allgemeine Informationen**
+ **Allgemeine Informationen**
 
 - **Name:** Aristoteles  
 
@@ -82,65 +82,114 @@ Der Abgabetermin für die schriftlichen Prüfungsleistungen ist der **XXXXX** . 
 - **Schule:** Gründer des Lyzeums in Athen  
 
 ### **Philosophische Ansätze**
+
 Aristoteles gilt als einer der bedeutendsten Philosophen der Antike und prägte zahlreiche Disziplinen:
+
 - **Metaphysik:** Konkrete Einzeldinge sind die Substanzen der Wirklichkeit; später ergänzte er dies durch die Lehre, dass die Form die Substanz ist.
+
 - **Ethik:** Ziel des Lebens ist das Glück (*eudaimonia*), erreichbar durch Verstandes- und Charaktertugenden sowie den richtigen Umgang mit Begierden und Emotionen.
+
 - **Staatslehre:** Der Staat ist Voraussetzung für menschliches Glück; Aristoteles entwickelte eine Staatsformenlehre, die lange Zeit maßgeblich war.
+
 - **Dichtungstheorie:** Die Funktion der Tragödie liegt in der Erzeugung von Furcht und Mitleid, um eine Reinigung (*Katharsis*) zu bewirken.
-### **Wissenschaftliche Beiträge**
+
+### **Aristotele' Denken**
+
 Aristoteles unterteilte Wissen in verschiedene Bereiche:
+
 1. **Theoretische Wissenschaften:** Naturwissenschaften, Mathematik, Ontologie, Theologie und Logik.
+
 2. **Praktische Wissenschaften:** Ethik, Politik und Rhetorik mit dem Ziel des guten Handelns.
+
 3. **Produktive Wissenschaften:** Kunst, Landwirtschaft und Medizin mit dem Ziel des Herstellens.
-### **Leben und Wirken**
+
+**Leben und Wirken**
+
 - Aristoteles wurde in Stageira geboren und erhielt seine Ausbildung an Platons Akademie in Athen, wo er 20 Jahre blieb.  
+
 - Nach Platons Tod verließ er Athen und wurde Lehrer von Alexander dem Großen.  
+
 - Er gründete später das Lyzeum in Athen, wo er etwa 12 Jahre lehrte und forschte. Seine Schule wurde auch "Peripatos" genannt, da er oft beim Gehen unterrichtete.
-### **Werke**
+
+**Werke**
+
 Aristoteles hinterließ ein umfangreiches literarisches Werk:
+
 - Zu seinen bekanntesten Schriften zählen die *Metaphysik*, *Nikomachische Ethik*, *Politik* und *Poetik*.
-- Seine Werke sind in zwei Kategorien unterteilt: 
-  - **Exoterische Schriften** (für ein breites Publikum)  
-  - **Esoterische Schriften** (für den internen Gebrauch seiner Schule).
-### **Tod**
+
+**Tod**
+
 Aristoteles starb 322 v. Chr. eines natürlichen Todes auf dem Land, nachdem er wegen Gotteslästerung angeklagt worden war und Athen verlassen musste.
 
 ## Die wichtigsten Werke von Aristoteles
-### **Logik und Wissenschaftstheorie**
+
+**Logik und Wissenschaftstheorie**
+
 - **Organon**: Sammlung logischer Schriften, die die Grundlagen der formalen Logik und Dialektik behandeln. Dazu gehören:
+
   - *Kategorien* (Cat.)
+
   - *De interpretatione* (Int.)
+
   - *Analytica priora* und *Analytica posteriora* (An. pr., An. post.)
+
   - *Topik* (Top.)
+
   - *Sophistische Widerlegungen* (Soph. el.).
 
-### **Theoretische Wissenschaften**
+**Theoretische Wissenschaften**
+
 - **Metaphysik**: Untersuchung der Prinzipien des Seins und der Wirklichkeit, oft als Ontologie bezeichnet.
+
 - **Physik**: Schriften zur Naturphilosophie, die sich mit Veränderung, Materie und Form beschäftigen.
+
 - **De anima**: Seelenlehre, die die Seele als Form des Körpers beschreibt.
 
-### **Praktische Wissenschaften**
+**Praktische Wissenschaften**
+
 - **Nikomachische Ethik**: Analysen über Tugend, Glück und das gute Leben.
+
 - **Politik**: Untersuchung der besten Staatsformen und des menschlichen Zusammenlebens.
+
 - **Eudemische Ethik**: Ergänzung zur Nikomachischen Ethik mit ähnlichen Themen.
 
-### **Poietische Wissenschaften**
+**Poietische Wissenschaften**
+
 - **Rhetorik**: Kunst der Überzeugung und Argumentation.
+
 - **Poetik**: Theorie der Dichtung, insbesondere der Tragödie und ihrer Wirkung (*Katharsis*).
-### **Naturwissenschaftliche Werke**
+
+**Naturwissenschaftliche Werke**
+
 - **Historia animalium**: Zoologische Studien über Tiere und ihre Eigenschaften.
+
 - **De generatione et corruptione**: Untersuchungen über Entstehung und Vergehen.
+
 - **De partibus animalium** und **De generatione animalium**: Anatomische und biologische Studien.
 Diese Werke bilden die Grundlage für zahlreiche Disziplinen wie Philosophie, Naturwissenschaften und Politik. Sie sind bis heute einflussreich in der akademischen Welt.
 
-### **Literatur zu Aristoteles (Auswahl)**
-- ...
+**Ausgewählte Sekundärliteratur**
+
+- Bernays, Jakob : Zwei Abhandlungen über die Aristotelische Theorie des Dramas. Berlin 1880.
+
+- Hamburger, Käte: Die Logik der Dichtung. München 1987.
+
+- Jung, Werner: Von der Mimesis zur Simulation. Eine Einführung in die Geschichte der Ästhetik. Hamburg 1995.
+
+- Titzmann, Michael: Poetik, in: Literatur Lexikon. ( Hg.) Walther Killy. Bd. 14. Gütersloh, München 1993. S. 216-222.
+
+- Utitz, Emil: Bemerkungen zur altgriechischen Kunsttheorie. Berlin 1959. ( = Deutsche Akademie der Wissenschaften, Schriften der Sektion für Altertumswiss. 18).
+
+- Verweyen,Theodor und Witting, Gunther: Artikel „Grundbegriffe der Poetik“, in: Rolf Günter Renner und Engelbert Habekost (Hg.): Lexikon literaturtheoretischer Werke. Stuttgart 1995. S. 164f.
+
+- Volk, Ulrich: Der poetologische Diskurs der Gegenwart. Untersuchungen zum zeitgenössischen Verständnis von Poetik, dargestellt an ausgewählten Beispielen der Frankfurter Stiftungsgastdozentur Poetik. Frankfurt/M. u.a. 2003.
+
+**Aristoteles im Netz** 
+
+- .
+
 - .... 
 
-
-### **Aristoteles im Netz** 
-- ... 
-- .... 
 - ... 
 
 - ...
