@@ -93,7 +93,7 @@ Aristoteles gilt als einer der bedeutendsten Philosophen der Antike und prägte 
 
 - **Dichtungstheorie:** Die Funktion der Tragödie liegt in der Erzeugung von Furcht und Mitleid, um eine Reinigung (*Katharsis*) zu bewirken.
 
-### **Aristotele' Denken**
+### **Aristoteles' Denken**
 
 Aristoteles unterteilte Wissen in verschiedene Bereiche:
 
@@ -168,7 +168,7 @@ Aristoteles starb 322 v. Chr. eines natürlichen Todes auf dem Land, nachdem er 
 - **De partibus animalium** und **De generatione animalium**: Anatomische und biologische Studien.
 Diese Werke bilden die Grundlage für zahlreiche Disziplinen wie Philosophie, Naturwissenschaften und Politik. Sie sind bis heute einflussreich in der akademischen Welt.
 
-**Ausgewählte Sekundärliteratur**
+### **Ausgewählte Sekundärliteratur**
 
 - Bernays, Jakob : Zwei Abhandlungen über die Aristotelische Theorie des Dramas. Berlin 1880.
 
