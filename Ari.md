@@ -244,7 +244,7 @@ Diese Werke bilden die Grundlage für zahlreiche Disziplinen wie Philosophie, Na
   - Else, G. 1986: Plato and Aristotle on Poetry, Chapel Hill.
 
   - Erler, M. 1997: Ideal und Wirklichkeit. Die Rahmengespräche des Timaios und Kritias und Aristoteles’ Poetik, in: T. B. L. Calvo (Hrsg.): Interpreting the Timaeus – Critias. Granada/Madrid, 83–88.
- 
+  
   - Ette, W. 2003: Die Aufhebung der Zeit in das Schicksal. Zur „Poetik“ des Aristoteles, Berlin.
 
   - Fendt, G. 2007: Love Song for the Life of the Mind. An Essay on the Purpose of Comedy, Washington.
