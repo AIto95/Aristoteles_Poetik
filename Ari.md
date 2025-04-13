@@ -31,7 +31,7 @@ Die aristotelische Poetik ist das Schlüsselwerk antiker Literatur- und Kunstthe
 
 Beachten Sie die Handreichung zum wissenschaftlichen Arbeiten im Fach Philosophie. Jedes Referat, jede Hausarbeit und jeder Essay sind im Vorfeld in der Sprechstunde abzustimmen. 
 
-Der Abgabetermin für die schriftlichen Prüfungsleistungen ist der **XXXXX** . Die Abgabe erfolgt als Ausdruck, mit Deckblatt und unterschriebener Eigenständigkeitserklärung an der Hauptpforte oder im Briefkasten für Prüfungsleistungen in der LS4. Keine Abgabe per Email!
+Der Abgabetermin für die schriftlichen Prüfungsleistungen ist der 30.09.2025. Die Abgabe erfolgt als Ausdruck, mit Deckblatt und unterschriebener Eigenständigkeitserklärung an der Hauptpforte oder im Briefkasten für Prüfungsleistungen in der LS4. Keine Abgabe per Email!
 
 ## Semesterplan
 
