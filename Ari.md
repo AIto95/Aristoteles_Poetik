@@ -97,11 +97,11 @@ Aristoteles gilt als einer der bedeutendsten Philosophen der Antike und prägte 
 
 Aristoteles unterteilte Wissen in verschiedene Bereiche:
 
-1. **Theoretische Wissenschaften:** Naturwissenschaften, Mathematik, Ontologie, Theologie und Logik.
+-  **Theoretische Wissenschaften:** Naturwissenschaften, Mathematik, Ontologie, Theologie und Logik.
 
-2. **Praktische Wissenschaften:** Ethik, Politik und Rhetorik mit dem Ziel des guten Handelns.
+-  **Praktische Wissenschaften:** Ethik, Politik und Rhetorik mit dem Ziel des guten Handelns.
 
-3. **Produktive Wissenschaften:** Kunst, Landwirtschaft und Medizin mit dem Ziel des Herstellens.
+-  **Produktive Wissenschaften:** Kunst, Landwirtschaft und Medizin mit dem Ziel des Herstellens.
 
 **Leben und Wirken**
 
@@ -204,7 +204,6 @@ Diese Werke bilden die Grundlage für zahlreiche Disziplinen wie Philosophie, Na
       
       - 2009: Aristoteles Poetik, Berlin.
 
-
   - Lobel, E. 1933: The Greek Manuscripts of Aristotle’s Poetics, Oxford.
 
   - Moraitou, D. 1994: Die Äußerungen des Aristoteles über Dichter und Dichtung außerhalb der Poetik, Stuttgart, Leipzig.
@@ -244,8 +243,7 @@ Diese Werke bilden die Grundlage für zahlreiche Disziplinen wie Philosophie, Na
 
   - Else, G. 1986: Plato and Aristotle on Poetry, Chapel Hill.
 
-  - Erler, M. 1997: Ideal und Wirklichkeit. Die Rahmengespräche des Timaios und Kritias und Aristoteles’ Poetik, in: T. B. L. Calvo (Hrsg.): Interpreting the Timaeus – Critias.
-Granada/Madrid, 83–88.
+  - Erler, M. 1997: Ideal und Wirklichkeit. Die Rahmengespräche des Timaios und Kritias und Aristoteles’ Poetik, in: T. B. L. Calvo (Hrsg.): Interpreting the Timaeus – Critias. Granada/Madrid, 83–88.
  
   - Ette, W. 2003: Die Aufhebung der Zeit in das Schicksal. Zur „Poetik“ des Aristoteles, Berlin.
 
@@ -259,8 +257,7 @@ Granada/Madrid, 83–88.
 
   - Fortenbaugh, W. W. 1975: Aristotle on Emotion, Londonn.
 
-  - Freeland, C. A. 1996: Aristotle’s Poetics in Relation to the Ethical Treatises, in: W. Wians (Hrsg.): Aristotle’s Philosophical Development. Problems and Prospects, Lanham,
-327–245.
+  - Freeland, C. A. 1996: Aristotle’s Poetics in Relation to the Ethical Treatises, in: W. Wians (Hrsg.): Aristotle’s Philosophical Development. Problems and Prospects, Lanham, 327–245.
 
   - Fuhrmann, M. 2003: Die Dichtungstheorie der Antike. Aristoteles, Horaz, „Longin“. Eine Einführung, überarbeitete Neuauflage, Düsseldorf.
 
@@ -271,8 +268,10 @@ Granada/Madrid, 83–88.
   - Hamburger, Käte: Die Logik der Dichtung. München 1987.
 
   - Halliwell, S. 1998: Aristotle’s Poetics, Chicago.
-     – 2002: The Aesthetics of Mimesis. Ancient Texts and Modern Problems, Princeton.
-     – 2003: Aristoteles und die Geschichte der Ästhetik, in: T. Buchheim/H. Flashar/R. A. H. King (Hrsg.): Kann man heute noch etwas anfangen mit Aristoteles? Hamburg, 165–183.
+  
+    - 2002: The Aesthetics of Mimesis. Ancient Texts and Modern Problems, Princeton.
+    
+    - 2003: Aristoteles und die Geschichte der Ästhetik, in: T. Buchheim/H. Flashar/R. A. H. King (Hrsg.): Kann man heute noch etwas anfangen mit Aristoteles? Hamburg, 165–183.
 
   - Heath, M. 1991: The Universality of Poetry in Aristotle’s Poetics, in: Classical Quarterly, New Series 41, 389–402.
 
@@ -316,7 +315,7 @@ Granada/Madrid, 83–88.
 
     -  1998: Mimesis bei Aristoteles und in den Poetikkommentaren und Poetiken der Renaissance, in: G. Neumann/A. Kablitz (Hrsg.): Mimesis und Simulation. München, 17–53.
     
-    – 2003: Die Literatur und ihr Gegenstand in der Poetik des Aristoteles, in: T. Buchheim/H. Flashar/R. A. H. King (Hrsg.): Kann man heute noch etwas anfangen mit Aristoteles? Hamburg, 184–219.
+    - 2003: Die Literatur und ihr Gegenstand in der Poetik des Aristoteles, in: T. Buchheim/H. Flashar/R. A. H. King (Hrsg.): Kann man heute noch etwas anfangen mit Aristoteles? Hamburg, 184–219.
 
   - Schütrumpf, E. 1970: Die Bedeutung des Wortes êthos in der Poetik des Aristoteles, München
   
