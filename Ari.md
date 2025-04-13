@@ -168,45 +168,187 @@ Aristoteles starb 322 v. Chr. eines natürlichen Todes auf dem Land, nachdem er 
 - **De partibus animalium** und **De generatione animalium**: Anatomische und biologische Studien.
 Diese Werke bilden die Grundlage für zahlreiche Disziplinen wie Philosophie, Naturwissenschaften und Politik. Sie sind bis heute einflussreich in der akademischen Welt.
 
-### **Ausgewählte Sekundärliteratur**
+### Zum Nachforschen:
 
-- Ottfried Höffe: Aristoteles Poetik, Berlin: Akademie Verlag 2009.
+**Übersetzungen mit Kommentar**
 
-- Bernays, Jakob : Zwei Abhandlungen über die Aristotelische Theorie des Dramas. Berlin 1880.
+- Deutsch
+    - Poetik. Übersetzt und erläutert von A. Schmitt, Berlin/Darmstadt 2008.
+- Englisch
+    - Bywater, I. 1909: Aristotle on the Art of Poetry (A Revised Text with Critical Introduction,
+      Translation and Commentary), Oxford.
+    - Else, G. 1957: Aristotle’s Poetics. The Argument, Cambridge/MA.
+    - Halliwell, S. 1987: The Poetics of Aristotle, London.
+    - Janko, R. 1987: Aristotle, Poetics I, with the Tractatus Coislinianus, a hypothetical recon-
+      struction of Poetics II, the fragments of the On poets, Indianapolis/Cambridge.
+    - Whalley, G. 1997: Aristotle’s Poetics, Montreal.
+- Französisch
+    - Destrée, P. (in Vorbereitung): Aristote. La Poétique, Paris.
+    - Dupont-Roc, R./Lallot, J. 1980: Aristote, La Poétique. Texte, traduction, notes, Paris.
 
-- Hamburger, Käte: Die Logik der Dichtung. München 1987.
+**Ausgewählte Sekundärliteratur**
 
-- Jung, Werner: Von der Mimesis zur Simulation. Eine Einführung in die Geschichte der Ästhetik. Hamburg 1995.
+- Bibliographien und Hilfsmittel
 
-- Kafka, Gustav: Aristoteles. München 1922.
+  - Bonitz, H. (Hrsg.) 21870: Index Aristotelicus, Berlin (Band V der Gesamtausgabe der Akademie).
 
-- Manns, P.: Die Lehre des Aristoteles von der tragischen Katharsis und Hamartia. Karlsruhe und Leipzig 1883.
+  - Denooz, J. 1988: Aristote, Poetica. Index verborum. Liste de fréquence, Lüttich.
 
-- Rapp, Christof: Aristoteles zur Einführung. 6. erw. Auflage, Junius 2020.
+  - Heath, M. 2001: Aristotle Poetics: a bibliography. Online verfügbar unter http://www.leeds.ac.uk/classics/resources/poetics/poetbib.htm.
 
-- Rapp, Christof und  Corcilius, Klaus: Aristoteles Handbuch. Leben - Werk - Wirkung, Springer 2021.
+  - Höffe, O. (Hrsg.) 2005: Aristoteles-Lexikon, Stuttgart. 
+  
+      - 2006: Arstoteles, München (zur Poetik: 69–76).
+      
+      - 2009: Aristoteles: Die Hauptwerke. Ein Lesebuch, Tübingen.
+      
+      - 2009: Aristoteles Poetik, Berlin.
 
-- Titzmann, Michael: Poetik, in: Literatur Lexikon. ( Hg.) Walther Killy. Bd. 14. Gütersloh, München 1993. S. 216-222.
 
-- Utitz, Emil: Bemerkungen zur altgriechischen Kunsttheorie. Berlin 1959. ( = Deutsche Akademie der Wissenschaften, Schriften der Sektion für Altertumswiss. 18).
+  - Lobel, E. 1933: The Greek Manuscripts of Aristotle’s Poetics, Oxford.
 
-- Verweyen,Theodor und Witting, Gunther: Artikel „Grundbegriffe der Poetik“, in: Rolf Günter Renner und Engelbert Habekost (Hg.): Lexikon literaturtheoretischer Werke. Stuttgart 1995. S. 164f.
+  - Moraitou, D. 1994: Die Äußerungen des Aristoteles über Dichter und Dichtung außerhalb der Poetik, Stuttgart, Leipzig.
 
-- Volk, Ulrich: Der poetologische Diskurs der Gegenwart. Untersuchungen zum zeitgenössischen Verständnis von Poetik, dargestellt an ausgewählten Beispielen der Frankfurter Stiftungsgastdozentur Poetik. Frankfurt/M. u.a. 2003.
+  - Schrier, O. J. 1998: The Poetics of Aristotle and the Tractatus Coislinianus. A bibliography from about 900 till 1996, Leiden u. a.
+
+  - Wartelle, A. 1985: Lexique de la Poétique d’Aristote, Paris.
+
+- Kommentare und Abhandlungen zur Poetik
+
+  - Andersen, Ø./Haarberg, J. (Hrsg.) 2001: Making Sense of Aristotle: Essays in Poetics, London.
+
+  - Luserke, M. (Hrsg.) 1991: Die Aristotelische Katharsis. Dokumente ihrer Deutung im 19. und 20. Jahrhundert, Hildesheim u. a.
+
+  - Rorty, A. O. (Hrsg.) 1992: Essays on Aristotle’s Poetics, Princeton. 
+
+  - Seidensticker, B./Vöhler, M. (Hrsg.) 2007: Katharsiskonzeptionen vor Aristoteles, Berlin.
+
+
+- Sonstige Sekundärliteratur
+
+  - Auerbach, E. 102001: Mimesis. Dargestellte Wirklichkeit in der abendländischen Literatur, Tübingen.
+
+  - Belfiore, E. 1992: Tragic Pleasures. Aristotle on Plot and Emotion, Princeton.
+
+  - Bernays, J. 1880: Zwei Abhandlungen über die aristotelische Theorie des Drama: I. Grundzüge der verlorenen Abhandlung des Aristoteles über Wirkung der Tragödie; II. Ergänzung zu Aristoteles’ Poetik, Berlin.
+
+  - Bremer, J. M. 1969: Hamartia. Tragic Error in the Poetics of Aristotle and in Greek Tragedy, Amsterdam.
+
+  - Cessi, V. 1987: Erkennen und Handeln in der Theorie des Tragischen bei Aristoteles, Frankfurt/M.
+
+  - Davis, M. 1999: The Poetry of Philosophy. On Aristotle’s Poetics, South Bend.
+
+  - Diaz-Tejera, A. 1984: La poesía como causalidad en la Poética de Aristóteles, in: Emerita 52, 271–286.
+
+  - Dilcher, R. 1996: Furcht und Mitleid! Zu Lessings Ehrenrettung, in: Antike und Abendland 42, 85–102.
+
+  - Else, G. 1986: Plato and Aristotle on Poetry, Chapel Hill.
+
+  - Erler, M. 1997: Ideal und Wirklichkeit. Die Rahmengespräche des Timaios und Kritias und Aristoteles’ Poetik, in: T. B. L. Calvo (Hrsg.): Interpreting the Timaeus – Critias.
+Granada/Madrid, 83–88.
+ 
+  - Ette, W. 2003: Die Aufhebung der Zeit in das Schicksal. Zur „Poetik“ des Aristoteles, Berlin.
+
+  - Fendt, G. 2007: Love Song for the Life of the Mind. An Essay on the Purpose of Comedy, Washington.
+
+  - Finsler, G. 1900: Platon und die Aristotelische Poetik, Leipzig.
+
+  - Flashar, H. 1974: Aristoteles und Brecht, in: Poetica 6, 17–37.
+     
+    – 1984: Die Poetik des Aristoteles und die griechische Tragödie, in: Poetica 16, 1–23.
+
+  - Fortenbaugh, W. W. 1975: Aristotle on Emotion, Londonn.
+
+  - Freeland, C. A. 1996: Aristotle’s Poetics in Relation to the Ethical Treatises, in: W. Wians (Hrsg.): Aristotle’s Philosophical Development. Problems and Prospects, Lanham,
+327–245.
+
+  - Fuhrmann, M. 2003: Die Dichtungstheorie der Antike. Aristoteles, Horaz, „Longin“. Eine Einführung, überarbeitete Neuauflage, Düsseldorf.
+
+  - Golden, L. 1992: Aristotle on Tragic and Comic Mimesis, Atlanta.
+
+  - Hall, E. 1996: Is there a Polis in Aristotle’s Poetics? In: M. S. Silk (Hrsg.): Tragedy and the Tragic. Greek Theatre and Beyond. Oxford, 295–309.
+
+  - Hamburger, Käte: Die Logik der Dichtung. München 1987.
+
+  - Halliwell, S. 1998: Aristotle’s Poetics, Chicago.
+     – 2002: The Aesthetics of Mimesis. Ancient Texts and Modern Problems, Princeton.
+     – 2003: Aristoteles und die Geschichte der Ästhetik, in: T. Buchheim/H. Flashar/R. A. H. King (Hrsg.): Kann man heute noch etwas anfangen mit Aristoteles? Hamburg, 165–183.
+
+  - Heath, M. 1991: The Universality of Poetry in Aristotle’s Poetics, in: Classical Quarterly, New Series 41, 389–402.
+
+  - Held, G. F. 1995: Aristotle’s Teleological Theory of Tragedy and Epic, Heidelberg.
+  
+  - Höffe, O. 2001: Durch Leiden lernen. Ein philosophischer Blick auf die antike Tragödie, in: Deutsche Zeitschrift für Philosophie 3, 331–351.
+
+  - Horn, H. J. 1975: Zur Begründung des Vorrangs der praxis vor dem êthos in der aristotelischen Tragödientheorie, in: Hermes 103, 292–299.
+  
+  - Husain, M. 2002: Ontology and the Art of Tragedy. An Approach to Aristotle’s Poetics, Albany.
+  
+  - Jung, Werner: Von der Mimesis zur Simulation. Eine Einführung in die Geschichte der Ästhetik. Hamburg 1995.
+
+  - Kafka, Gustav: Aristoteles. München 1922.
+
+  - Kannicht, R. 1976: Handlung als Grundbegriff der aristotelischen Theorie des Dramas, in: Poetica 8, 326–336.
+
+  - Köhnken, A. 1990: Terminologische Probleme in der Poetik des Aristoteles, in: Hermes 118, 129–149.
+
+  - Lienhard, M. K. 1950: Zur Entstehung und Geschichte von Aristoteles’ Poetik, Zürich.
+
+  - Manns, P.: Die Lehre des Aristoteles von der tragischen Katharsis und Hamartia. Karlsruhe und Leipzig 1883.
+
+  - Maróth, M. 1993: Die Poetik und Physik des Aristoteles, in: Acta Antiqua Academiae Scientiarum Hungaricae 34, 95–101.
+
+  - Neschke, A. 1980: Die Poetik des Aristoteles. Textstruktur und Textbedeutung. 1: Interpretationen; 2: Analysen, Frankfurt/M.
+
+  - Nussbaum, M. 1989: Luck and the Tragic Emotions, in: Dies.: The Fragility of Goodness. Cambridge/MA, 378–394.
+
+  - Otte, H. 1928: Neue Beiträge zur aristotelischen Begriffsbestimmung der Tragödie, Berlin.
+
+  - Petersen, J. H. 1992: „Mimesis“ versus „Nachahmung“. Die Poetik des Aristoteles – nochmals neu gelesen, in: Arcadia 27, 3–46.
+
+  - Raumer, F. v. 1831: Über die Poetik des Aristoteles, Berlin.
+
+  - Rapp, Christof: Aristoteles zur Einführung. 6. erw. Auflage, Junius 2020.
+
+  - Rapp, Christof und  Corcilius, Klaus: Aristoteles Handbuch. Leben - Werk - Wirkung, Springer 2021.
+
+  - Schmitt, A. 1994: Aristoteles und die Moral der Tragödie, in: A. Bierl, P. v. Möllendorff (Hrsg.): Orchestra. Drama, Mythos, Bühne. Festschrift für Hellmut Flashar anläßlich seines 65. Geburtstages, Stuttgart, Leipzig, 331–343.
+
+    -  1998: Mimesis bei Aristoteles und in den Poetikkommentaren und Poetiken der Renaissance, in: G. Neumann/A. Kablitz (Hrsg.): Mimesis und Simulation. München, 17–53.
+    
+    – 2003: Die Literatur und ihr Gegenstand in der Poetik des Aristoteles, in: T. Buchheim/H. Flashar/R. A. H. King (Hrsg.): Kann man heute noch etwas anfangen mit Aristoteles? Hamburg, 184–219.
+
+  - Schütrumpf, E. 1970: Die Bedeutung des Wortes êthos in der Poetik des Aristoteles, München
+  
+  - Titzmann, Michael: Poetik, in: Literatur Lexikon. ( Hg.) Walther Killy. Bd. 14. Gütersloh, München 1993. S. 216-222.
+
+  - Utitz, Emil: Bemerkungen zur altgriechischen Kunsttheorie. Berlin 1959. ( = Deutsche Akademie der Wissenschaften, Schriften der Sektion für Altertumswiss. 18).
+
+  - Verweyen,Theodor und Witting, Gunther: Artikel „Grundbegriffe der Poetik“, in: Rolf Günter Renner und Engelbert Habekost (Hg.): Lexikon literaturtheoretischer Werke. Stuttgart 1995. S. 164f.
+
+  - Volk, Ulrich: Der poetologische Diskurs der Gegenwart. Untersuchungen zum zeitgenössischen Verständnis von Poetik, dargestellt an ausgewählten Beispielen der Frankfurter Stiftungsgastdozentur Poetik. Frankfurt/M. u.a. 2003.
+
+  - Zierl, A. 1994: Affekte in der Tragödie. Orestie, Oidipus Tyrannos und die Poetik des Aristoteles, Berlin.
+
 
 **Aristoteles im Netz** 
 
-- Universität Heidelberg [Aristoteles Heute](https://www.ub.uni-heidelberg.de/fachinfo/philosophie/aristoteles/)
+- Stanford Encyclopedia of Philosophy: [Aristotle](https://plato.stanford.edu/entries/aristotle/)
 
+- Internet Encyclopedia of Philosophy: [Aristotle](https://iep.utm.edu/aristotle/)
+
+- [Aristotle Foundation for Public Policy](https://aristotlefoundation.org)
 
 - Freie Universität Berlin: [Aristoteles Zentrum](https://www.geisteswissenschaften.fu-berlin.de/we02/griechisch/graezistik/aristotelismuszentrum/index.html)
 
+- Universität Heidelberg [Aristoteles Heute](https://www.ub.uni-heidelberg.de/fachinfo/philosophie/aristoteles/)
+
 - Treffpunkt Philosophie: [Aristoteles – Vater der modernen Wissenschaft](https://treffpunkt-philosophie.dearistoteles-vater-der-modernen-wissenschaft/)
+
+- Philosophie Magazin: [Lexikon der Philosophie](https://www.philomag.de/philosophen/aristoteles)
 
 **Aristoteles zum Anhören** 
 
 - RadioWissen: [Aristoteles als Wegweiser](https://podcasts.apple.com/de/podcast/radiowissen/id257719552?i=1000464712363)
 
 - Durchblick Philosophie: [Aristoteles Denken macht glücklich](https://podcasts.apple.com/de/podcast/durchblick-philosophie/id1497307279?i=1000508404306)
-
-- 
