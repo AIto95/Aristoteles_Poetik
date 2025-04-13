@@ -194,7 +194,7 @@ Diese Werke bilden die Grundlage für zahlreiche Disziplinen wie Philosophie, Na
 
   - Denooz, J. 1988: Aristote, Poetica. Index verborum. Liste de fréquence, Lüttich.
 
-  - Heath, M. 2001: [Aristotle Poetics: a bibliography.](https://www.leeds.ac.uk/classics/resources/poetics/poetbib.htm.)
+  - Heath, M. 2001: Aristotle Poetics: a bibliography.
 
   - Höffe, O. (Hrsg.) 2005: Aristoteles-Lexikon, Stuttgart. 
   
