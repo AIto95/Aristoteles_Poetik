@@ -46,8 +46,7 @@ Der Abgabetermin für die schriftlichen Prüfungsleistungen ist der **30.08.2025
 | 09.06.2025| ---| -- |
 | 16.06.2025 | ---| -- |
 | 30.06.2025 |---| -- |
-| 07.07.2025| ---| -- |
-| 14.07.2025| **Abschlussdiskussion** | -- |
+| 07.07.2025| **Abschlussdiskussion** 
 
 **Prüfungszeitraum des aktuellen Semesters**:
 14.07. - 26.07.2025
