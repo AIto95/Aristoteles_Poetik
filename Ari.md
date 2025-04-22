@@ -35,15 +35,14 @@ Der Abgabetermin für die schriftlichen Prüfungsleistungen ist der **30.08.2025
 
 ## Semesterplan
 
-| **21.04.2025** | **Eröffnung, Organisatorisches** | **Referat** |
+| **28.04.2025** | **Eröffnung, Organisatorisches** | **Referat** |
 |------------|------------------------------|---------|
-| 28.04.2025 | ---| -- |
 | 05.05.2025 |  ---| -- |
 | 12.05.2025 | ---| -- |
 | 19.05.2025 | ---| -- |
 | 26.05.2025 |---| -- |
 | 02.06.2025 | ---| -- |
-| 09.06.2025| ---| -- |
+| 09.06.2025| **Keine Sitzung: Pfingsten**| -- |
 | 16.06.2025 | ---| -- |
 | 30.06.2025 |---| -- |
 | 07.07.2025| **Abschlussdiskussion** | -- |
